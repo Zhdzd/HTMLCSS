@@ -1,0 +1,15 @@
+h1 {
+    color:blue;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace
+}
+h2 {
+    font-size: large;
+    font-family:'Courier New', Courier, monospace
+}
+
+p {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
